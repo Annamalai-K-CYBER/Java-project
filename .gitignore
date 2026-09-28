@@ -1,0 +1,6 @@
+.no
+node_modules/
+package-lock.json
+backend/target/
+.env
+*.log
